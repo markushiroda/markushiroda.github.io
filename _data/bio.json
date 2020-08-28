@@ -33,7 +33,7 @@
       }
     ]
   ],
-  "interests" [
+  "interests": [
     {,
       "name": "Hiking",
       "keywords": [
@@ -43,7 +43,7 @@
       "name": "Sustainability",
       "keywords": [
       ]
-    },
+    }
     {
       "name": "Web Development",
       "keywords": [
