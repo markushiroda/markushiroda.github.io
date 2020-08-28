@@ -44,42 +44,35 @@
       ]
     },
     {
-      "name": "Surfing",
+      "name": "Web Development",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Bilingual",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "French Language",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Skills",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Leadership",
+        "Project Maangement",
+        "Teamwork",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems, Marketing, and Finance (expected Spring, 2022)",
+      "studyType": "B.B.A.",
+      "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -88,69 +81,75 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "First Insurance Company of Hawaii",
+      "position": "Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Conduct environmental scans of Hawaii to determine and analyze insurance opportunities for the personal lines sector",
+        "Gain industry knowledge in different departments including underwriting, claims, and risk management"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Shidler College of Business",
+      "position": "Dean's Office Assistant",
+      "website": "",
+      "startDate": "2020-04-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Documented monthly travel reports and organized payroll notification forms",
+        "Served as first point of conrtact for students, faculty, and the public in delivering knowledgeable assistance"
+      ]
+    },
+    {
+      "company": "Hawaii Business Magazine",
+      "position": "Digital Marketing Intern",
+      "website": "",
+      "startDate": "2020-2-01",
+      "endDate": "2020-5-01",
+      "summary": "",
+      "highlights": [
+        "Managed Hawaii Business Magazine's website by translating print content to a digital format utilizing HTML/CSS",
+        "Crafted social media campaigns on various platforms (Twitter, Instagram, FaceBook, and LinkedIn) to drive traffic to our annual Leadership Conference"
       ]
     }
   ],
-  "volunteer": [
+  
+  "Activities": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Business Executive Society of Tomnorrow",
+      "website": "https://www.bestuhm.org/",
+      "position": "Inter-Business Council Senator",
+      "startDate": "2020-06-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Maintain positive relations within the various clubs affiliated with the Shidler College of Business",
+        "Act as the intermediary between the Business Executive Society of Tomorrow and the IBC Council"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Shidler Global Leader",
+      "date": "August 2020-Present",
+      "awarder": "Shidler College of Business",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "DB Insurance Scholarship",
+      "date": "2020",
+      "awarder": "DB Kim Jun Ki Cultural Scholarship",
+      "summary": ""
+    },
+    {
+      "title": "Marian Miccio Memorial Scholarship",
+      "date": "2020",
+      "awarder": "Marian Miccio Memorial Foundation",
+      "summary": ""
     }
   ],
   "references": [
