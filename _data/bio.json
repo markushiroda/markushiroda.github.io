@@ -33,13 +33,13 @@
       }
     ]
   ],
-  "interests" [
-    {
+  "interests" {
+    [
       "name": "Hiking",
       "keywords": [
       ]
     },
-    {
+    [
       "name": "Sustainability",
       "keywords": [
       ]
