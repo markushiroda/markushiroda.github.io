@@ -1,160 +1,35 @@
-{
-  "basics": {
-    "name": "Mark Ushiroda",
-    "label": "Shidler Undergraduate",
-    "picture": "https://markushiroda.github.io/images/headshot for github.png",
-    "email": "markdu@hawaii.edu",
-    "phone": "808-341-2976",
-    "website": "https://markushiroda.github.io",
-    "summary": "I am a student at the Shidler College of Business purusing a BBA in Marketing and Management Information Systems. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96817",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "markushiroda",
-        "url": "http://github.com/markushiroda"
-      },
-      {
-        "network": "linkedin",
-        "username": "markushiroda",
-        "url": "http://linkedin.com/in/markushiroda"
-      },
-      {
-        "network": "instagram",
-        "username": "markushiroda",
-        "url": "http://instagram.com/markushiroda"
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            "Maintain positive relations within the various clubs affiliated with the Shidler College of Business",
+            "Act as the intermediary between the Business Executive Society of Tomorrow and the IBC Council"
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Hiking",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Sustainability",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Web Development",
-      "keywords": [
-      ]
-    },
-  ],
-  "skills": [
-    {
-      "name": "Bilingual",
-      "level": "",
-      "keywords": [
-        "French Language",
-      ]
-    },
-    {
-      "name": "Skills",
-      "level": "",
-      "keywords": [
-        "Leadership",
-        "Project Mangement",
-        "Teamwork",
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems, Marketing, and Finance (expected Spring, 2022)",
-      "studyType": "B.B.A.",
-      "startDate": "2018",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "First Insurance Company of Hawaii",
-      "position": "Intern",
-      "website": "",
-      "startDate": "2020-08-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Conduct environmental scans of Hawaii to determine and analyze insurance opportunities for the personal lines sector",
-        "Gain industry knowledge in different departments including underwriting, claims, and risk management"
-      ]
-    },
-    {
-      "company": "Shidler College of Business",
-      "position": "Dean's Office Assistant",
-      "website": "",
-      "startDate": "2020-04-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Documented monthly travel reports and organized payroll notification forms",
-        "Served as first point of contact for students, faculty, and the public in delivering knowledgeable assistance"
-      ]
-    },
-    {
-      "company": "Hawaii Business Magazine",
-      "position": "Digital Marketing Intern",
-      "website": "",
-      "startDate": "2020-2-01",
-      "endDate": "2020-5-01",
-      "summary": "",
-      "highlights": [
-        "Managed Hawaii Business Magazine's website by translating print content to a digital format utilizing HTML/CSS",
-        "Crafted social media campaigns on various platforms (Twitter, Instagram, FaceBook, and LinkedIn) to drive traffic to our annual Leadership Conference"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Business Executive Society of Tomnorrow",
-      "website": "https://www.bestuhm.org/",
-      "position": "Inter-Business Council Senator",
-      "startDate": "2020-06-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Maintain positive relations within the various clubs affiliated with the Shidler College of Business",
-        "Act as the intermediary between the Business Executive Society of Tomorrow and the IBC Council"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Shidler Global Leader",
-      "date": "August 2020-Present",
-      "awarder": "Shidler College of Business",
-      "summary": ""
-    },
-    {
-      "title": "DB Insurance Scholarship",
-      "date": "2020",
-      "awarder": "DB Kim Jun Ki Cultural Scholarship",
-      "summary": ""
-    },
-    {
-      "title": "Marian Miccio Memorial Scholarship",
-      "date": "2020",
-      "awarder": "Marian Miccio Memorial Foundation",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "awards":[
+      {
+         "title":"Shidler Global Leader",
+         "date":"August 2020-Present",
+         "awarder":"Shidler College of Business",
+         "summary":""
+      },
+      {
+         "title":"DB Insurance Scholarship",
+         "date":"2020",
+         "awarder":"DB Kim Jun Ki Cultural Scholarship",
+         "summary":""
+      },
+      {
+         "title":"Marian Miccio Memorial Scholarship",
+         "date":"2020",
+         "awarder":"Marian Miccio Memorial Foundation",
+         "summary":""
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
